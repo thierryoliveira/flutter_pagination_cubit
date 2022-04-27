@@ -1,16 +1,16 @@
-# flutter_cubit_pagination
+# flutter_cubit_pagination 📲️
 
-A new Flutter project.
+This project was quick made thinking to show how to use paginated APIs and Cubit to manage the app state with that feature.
+It can be used as a bolierplate project. In this case I didn't worry about Celan Architecture because of the time that I spend in this development
 
-## Getting Started
+## Next steps 💡️
 
-This project is a starting point for a Flutter application.
+1. Refactor to clean architecture
+2. Improve the UI
+3. Abstract the HTTP dependency
+4. Add Dependency Injection
 
-A few resources to get you started if this is your first Flutter project:
+## Important ✅️
+All these next steps I know how to do and you can see that on my another repositories, so when I developed this I just wanted to show how pagination works with cubits.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Feel free to use as you want! 😁️
